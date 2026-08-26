@@ -1,0 +1,18 @@
+# PlatformIO
+.pio/
+.pioenvs/
+.piolibdeps/
+
+# IDE
+.vscode/
+.idea/
+
+# Secrets (user-specific WiFi credentials)
+include/secrets.h
+
+# macOS
+.DS_Store
+
+# Build artifacts
+*.bin
+*.elf
